@@ -1,0 +1,13 @@
+#include<iostream>
+using std::cout;
+using std::cin;
+int main()
+{
+float a,b,c;
+cout<<"Enter two number:\n";
+cin>>a;
+cin>>b;
+c=a*b;
+cout<<"Product of two numbers is "<<c;
+return 0;
+}
